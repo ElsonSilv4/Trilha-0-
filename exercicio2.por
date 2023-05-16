@@ -15,7 +15,7 @@ programa
 		para (num=1;num<10;num+=2){
 			escreva(seq[num], "\n")
 		}
-		escreva("\nINDICES PARES: ")
+		escreva("\nNUMEROS PARES: ")
 		para (num=0;num<10;num++){
 			soma=seq[num]+soma
 			se (seq[num]%2==0){
